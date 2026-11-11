@@ -1,4 +1,4 @@
-# Lucas Vacca
+![Lucas Vacca - Desarrollador de software y cofundador de KOVELT](banner.png)
 
 Desarrollador de software y cofundador de KOVELT.
 
