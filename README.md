@@ -1,33 +1,31 @@
-# Hola, soy Lucas Vacca 👋
+# Lucas Vacca
 
-**Desarrollador de Software | Apasionado por la Tecnología | Cofundador de KOVELT**
+Desarrollador de software y cofundador de KOVELT.
 
-Soy desarrollador de software, apasionado por la programación, la tecnología y la creación de soluciones digitales. Disfruto transformar ideas en proyectos funcionales, explorar nuevas tecnologías y resolver problemas a través del desarrollo de software.
+Me gusta programar y llevar ideas a proyectos que funcionen, desde aplicaciones web hasta dispositivos con ESP32. Hoy reparto mi tiempo entre KOVELT, una tienda online que desarrollamos en equipo y un asistente de voz.
 
-Actualmente participo en varios proyectos que combinan desarrollo de software, tecnologías web, electrónica y trabajo colaborativo.
+## Tecnologías
 
-## 🛠️ Tecnologías y Herramientas
-
-- **Lenguajes:** JavaScript, HTML, CSS
-- **Bases de datos:** Supabase
+- **Lenguajes:** JavaScript, HTML, CSS, Java, Python, SQL
+- **Datos:** Supabase, JSON, manejo de datos en Excel
 - **Control de versiones:** Git, GitHub
 - **Electrónica:** Arduino, ESP32
-- **Otras áreas:** Desarrollo Web, Community Management, Creación de Contenido Digital
 
-## 🚀 Proyectos Destacados
+## Proyectos
 
-- **KOVELT:** Cofundador de un emprendimiento tecnológico enfocado en el desarrollo de software y soluciones digitales.
-- **Desarrollo de E-commerce:** Desarrollo colaborativo de una tienda online con autenticación, integración de base de datos, gestión de productos y carrito de compras.
-- **Asistente de Voz:** Desarrollo de un asistente de voz basado en ESP32, combinando programación y electrónica.
+### KOVELT
+Emprendimiento tecnológico que cofundé, dedicado al desarrollo de software y soluciones digitales.
 
-## 🔭 Explorando Actualmente
+### E-commerce
+Tienda online desarrollada en equipo, con registro e inicio de sesión de usuarios, base de datos, gestión de productos y carrito de compras.
 
-- Arquitectura de Software
-- Desarrollo Web
-- Sistemas Embebidos
-- Nuevas Tecnologías y Herramientas
+### Asistente de voz
+Asistente basado en ESP32 en el que combino programación y electrónica.
 
-## 📫 Contacto
+## En qué me estoy enfocando
 
-- **GitHub:** [github.com/lucass291](https://github.com/lucass291)
-- **Email:** [lucasvacca7@gmail.com](mailto:lucasvacca7@gmail.com)
+Arquitectura de software, desarrollo web y sistemas embebidos.
+
+## Contacto
+
+lucasvacca7@gmail.com
