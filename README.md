@@ -4,6 +4,8 @@ Desarrollador de software y cofundador de KOVELT.
 
 Me gusta programar y llevar ideas a proyectos que funcionen, desde aplicaciones web hasta dispositivos con ESP32. Hoy reparto mi tiempo entre KOVELT, una tienda online que desarrollamos en equipo y un asistente de voz.
 
+Podés ver mis proyectos en mi portfolio: [lucass291.github.io](https://lucass291.github.io)
+
 ## Tecnologías
 
 - **Lenguajes:** JavaScript, HTML, CSS, Java, Python, SQL
@@ -28,4 +30,5 @@ Arquitectura de software, desarrollo web y sistemas embebidos.
 
 ## Contacto
 
-lucasvacca7@gmail.com
+- Portfolio: [lucass291.github.io](https://lucass291.github.io)
+- Email: [lucasvacca7@gmail.com](mailto:lucasvacca7@gmail.com)
